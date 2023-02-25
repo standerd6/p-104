@@ -1,0 +1,19 @@
+body
+{
+ background-color: #ffc400;
+ color: #ffffff;
+}
+
+
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+
+}
+
+.name_of_person,#resultpersonaccuracy,#resultpersonname
+{
+    color: #9bb359;
+}
